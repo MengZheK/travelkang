@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Kunming"
+date:   2019-06-13 10:00:00
+categories: China
+location: Kunming, China
+tags: china kunming travel
+---
+
+2019 年旅游第一站-昆明，在昆明呆了两天，拜访参观了国立西南联大，在滇池旁看了海鸥。春城昆明，感觉，很棒。
+
+<div class="post-image">
+	<img alt="国立西南联大" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/1.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/1%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/1%403x.jpg 3x" />
+    <p class="post-image-caption">在雨中和联大校门的合照</p> 
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/2.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/2%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/2%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/3.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/3%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/3%403x.jpg 3x" />
+</div>
+<div class="post-image post-image--split">
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/4.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/4%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/4%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/5.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/5%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/5%403x.jpg 3x" />
+    <p class="post-image-caption">联大校园 & 乐器铺</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/6.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/6%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/6%403x.jpg 3x" />
+	<img alt="Blue door, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/7.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/7%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/7%403x.jpg 3x" />
+    <p class="post-image-caption">联大纪念碑[过去] & 洱海边许愿牌[未来]</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/11.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/11%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/11%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/8.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/8%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/8%403x.jpg 3x" />
+</div>
+<div class="post-image post-image--split">
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/9.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/9%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/9%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/10.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/10%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/10%403x.jpg 3x" />
+    <p class="post-image-caption">滇池边，很惬意</p>
+</div>
+
+<div class="post-image">
+	<img alt="滇池" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/12.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/12%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/12%403x.jpg 3x" />
+</div>
+<div class="post-image">
+	<img alt="滇池" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/13.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/13%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/13%403x.jpg 3x" />
+    <p class="post-image-caption">人间很美，值得！</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/14.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/14%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/14%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/15.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/15%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/15%403x.jpg 3x" />
+</div>
+<div class="post-image post-image--split">
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/16.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/16%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/16%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/17.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/17%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/17%403x.jpg 3x" />
+    <p class="post-image-caption">昆明故城</p>
+</div>
+
+[游记 01丨彩云之南-昆明.上篇](https://robotkang.cc/2019/06/kunming1/)    
+[游记 02丨彩云之南-昆明.下篇](https://robotkang.cc/2019/06/kunming2/)    
+
+
+
+
+
+
+
+
+
