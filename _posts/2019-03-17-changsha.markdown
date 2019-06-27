@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Changsha"
+date:   2019-03-17 09:00:00
+categories: China
+location: Changsha, China
+tags: china changsha travel
+---
+
+3 月中旬我去长沙出差，在工作之余和旭东同学去游览了有“千年学府”之称的湖南大学，主要是岳麓书院在湖南大学校内，岳麓书院里面的建筑好多都是后来修缮的，虽然文化底蕴还在，但我感觉还是缺少了老建筑的那种沧桑感。之后还去了岳麓山上的爱晚亭，环境很好，风水不错。
+
+怀念和旭东同学去吃的羊肉火锅～
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/1.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/1%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/1%403x.jpg 3x" />
+	<img alt="Blue door, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/2.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/2%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/2%403x.jpg 3x" />
+    
+</div>
+
+We lived in Bergmankiez in an apartment that was dark and viewless but nevertheless gorgeous in it's own way. This was to be the first (and probably the last) time I ever lived on a cobbled street.
+
+<div class="post-image post-image--split">
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/3.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/3%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/3%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/4.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/4%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/4%403x.jpg 3x" />
+</div>
+
+岳麓书院里面最吸引我的还是御书楼，藏图书的地方，可惜不对外开放。这边的御书楼和大成殿房顶上都有宝剑，说是镇妖除魔什么的，有点典故在里面的还是。
+
+<div class="post-image post-image--split">
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/5.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/5%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/5%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/6.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/6%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/6%403x.jpg 3x" />
+    <p class="post-image-caption">湖南大学&岳麓书院</p>
+</div>
+
+<div class="post-image">
+	<img alt="滇池" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/7.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/7%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-03-17-changsha/7%403x.jpg 3x" />
+    <p class="post-image-caption">爱晚亭</p>
+</div>
+
+晚上回去的时候还经过了国防科技大学，军事高等院校，和旭东站在学校校门口看了看，他之前有在里面工作，对我来说倒是神秘感十足，连哨兵都神气得很～
