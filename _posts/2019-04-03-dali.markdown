@@ -191,7 +191,7 @@ tags: china dali travel
 <div class="post-image">
 	<img alt="大理" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/61.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/61%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/61%403x.jpg 3x" />
 </div>
-<div class="post-image post-image--split">
+<div class="post-image">
 	<img alt="Thing, Anegundi" width="750" height="1021" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/62.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/62%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/62%403x.jpg 3x" />
 </div>
 <div class="post-image">
