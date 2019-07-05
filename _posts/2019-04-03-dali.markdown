@@ -147,55 +147,113 @@ tags: china dali travel
 	<img alt="大理大学" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/48.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/48%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/48%403x.jpg 3x" />
 	 <p class="post-image-caption">花的海洋</p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="post-image post-image--split">
-	<img alt="Thing, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/6.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/6%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/6%403x.jpg 3x" />
-	<img alt="Blue door, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/7.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/7%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/7%403x.jpg 3x" />
-    <p class="post-image-caption">联大纪念碑[过去] & 滇池边许愿牌[未来]</p>
-</div>
-
-<div class="post-image post-image--split">
-	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/11.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/11%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/11%403x.jpg 3x" />
-	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/8.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/8%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/8%403x.jpg 3x" />
-</div>
-<div class="post-image post-image--split">
-	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/9.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/9%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/9%403x.jpg 3x" />
-	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/10.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/10%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/10%403x.jpg 3x" />
-    <p class="post-image-caption">滇池边，很惬意</p>
-</div>
-
 <div class="post-image">
-	<img alt="滇池" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/12.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/12%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/12%403x.jpg 3x" />
+	<img alt="大理大学" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/49.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/49%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/49%403x.jpg 3x" />
+</div>
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/50.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/50%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/50%403x.jpg 3x" />
+	<img alt="Blue door, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/51.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/51%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/51%403x.jpg 3x" />
 </div>
 <div class="post-image">
-	<img alt="滇池" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/13.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/13%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/13%403x.jpg 3x" />
-    <p class="post-image-caption">人间很美，值得！</p>
+	<img alt="大理" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/52.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/52%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/52%403x.jpg 3x" />
 </div>
-
-<div class="post-image post-image--split">
-	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/14.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/14%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/14%403x.jpg 3x" />
-	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/15.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/15%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/15%403x.jpg 3x" />
+<div class="post-image post-image--split"> 
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/53.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/53%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/53%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/54.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/54%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/54%403x.jpg 3x" />
 </div>
 <div class="post-image post-image--split">
-	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/16.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/16%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/16%403x.jpg 3x" />
-	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/17.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/17%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/Kunming-Dali-201904/Travel_kunming/17%403x.jpg 3x" />
-    <p class="post-image-caption">昆明故城</p>
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/55.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/55%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/55%403x.jpg 3x" />
+	<img alt="Blue door, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/56.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/56%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/56%403x.jpg 3x" />
+</div>
+<div class="post-image">
+	<video autoplay loop width="750">
+		<source src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangvideo/2019-04-03-dali/54.mp4" type="video/mp4">
+	</video>
+	<p class="post-image-caption">
+		 洱海边·古生村
+	</p>
+</div>
+<div class="post-image">
+	<img alt="大理" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/57.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/57%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/57%403x.jpg 3x" />
+</div>
+<div class="post-image">
+	<img alt="大理" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/58.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/58%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/58%403x.jpg 3x" />
+</div>
+<div class="post-image">
+	<img alt="大理" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/59.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/59%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/59%403x.jpg 3x" />
 </div>
 
+我们租了一位白族老师傅的出租车，载着我们环游洱海，一路走走停停，看到了很多美景。
 
+<div class="post-image">
+	<img alt="大理" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/60.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/60%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/60%403x.jpg 3x" />
+</div>
+<div class="post-image">
+	<img alt="大理" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/61.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/61%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/61%403x.jpg 3x" />
+</div>
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="750" height="1021" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/62.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/62%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/62%403x.jpg 3x" />
+</div>
+<div class="post-image">
+	<img alt="大理" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/63.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/63%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/63%403x.jpg 3x" />
+</div>
+<div class="post-image post-image--split"> 
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/64.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/64%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/64%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/65.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/65%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/65%403x.jpg 3x" />
+</div>
+<div class="post-image">
+	<img alt="大理" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/66.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/66%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/66%403x.jpg 3x" />
+</div>
+<div class="post-image">
+	<img alt="大理" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/67.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/67%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/67%403x.jpg 3x" />
+</div>
+<div class="post-image post-image--split"> 
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/68.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/68%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/68%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/69.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/69%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/69%403x.jpg 3x" />
+</div>
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/70.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/70%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/70%403x.jpg 3x" />
+	<img alt="Blue door, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/71.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/71%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/71%403x.jpg 3x" />
+</div>
+<div class="post-image post-image--split"> 
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/72.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/72%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/72%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/73.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/73%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/73%403x.jpg 3x" />
+</div>
 
+在双廊古镇那边的的玉几岛参观了太阳宫和月亮宫，不得不说，这一片儿真是分水宝地呐。  
 
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/74.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/74%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/74%403x.jpg 3x" />
+	<img alt="Blue door, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/75.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/75%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/75%403x.jpg 3x" />
+</div>
+<div class="post-image">
+	<img alt="大理" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/76.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/76%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/76%403x.jpg 3x" />
+</div>
+<div class="post-image">
+	<video autoplay loop width="750">
+		<source src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangvideo/2019-04-03-dali/84.mp4" type="video/mp4">
+	</video>
+	<p class="post-image-caption">
+		 洱海边·玉几岛
+	</p>
+</div>
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/77.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/77%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/77%403x.jpg 3x" />
+	<img alt="Blue door, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/78.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/78%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/78%403x.jpg 3x" />
+</div>
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/79.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/79%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/79%403x.jpg 3x" />
+	<img alt="Blue door, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/80.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/80%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/80%403x.jpg 3x" />
+</div>
+<div class="post-image post-image--split"> 
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/81.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/81%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/81%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/82.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/82%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/82%403x.jpg 3x" />
+</div>
+<div class="post-image post-image--split"> 
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/83.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/83%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/83%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/84.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/84%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-04-03-dali/84%403x.jpg 3x" />
+	<p class="post-image-caption">苍山洱海·大理古城</p>
+</div>
 
 
 
