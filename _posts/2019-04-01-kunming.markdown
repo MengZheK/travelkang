@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kunming"
-date:   2019-06-13 10:00:00
+date:   2019-04-01 10:00:00
 categories: China
 location: Kunming, China
 tags: china kunming travel
