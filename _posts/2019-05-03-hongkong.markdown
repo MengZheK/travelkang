@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "HongKong"
+date:   2019-05-03 09:00:00
+categories: China
+location: HongKong, China
+tags: china hongkong travel
+---
+
+抓住五一劳动节的尾巴，我们几人去香港浪了一圈，主要是去了中环那边，不过幸运的是可以参观位于国际金融中心大厦55楼的香港金融管理局，这里是一览香港岛风光的绝佳地点。
+
+
+<div class="post-image">
+	<img alt="xg" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/0.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/0%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/0%403x.jpg 3x" /> 
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/1.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/1%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/1%403x.jpg 3x" />   
+</div>
+
+<div class="post-image post-image--split"> 
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/2.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/2%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/2%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/3.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/3%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/3%403x.jpg 3x" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/4.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/4%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/4%403x.jpg 3x" /> 
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/5.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/5%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/5%403x.jpg 3x" /> 
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="563" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/6.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/6%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/6%403x.jpg 3x" /> 
+	<p class="post-image-caption">高楼大厦 & HongKong</p>
+</div>
+
+<div class="post-image post-image--split"> 
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/7.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/7%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/7%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/8.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/8%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/8%403x.jpg 3x" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="1021" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/9.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/9%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/9%403x.jpg 3x" /> 
+</div>
+
+<div class="post-image post-image--split"> 
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/10.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/10%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/10%403x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/11.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/11%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-05-03-HongKong/11%403x.jpg 3x" />
+</div>
+
+
+
+
+
+
+
+
