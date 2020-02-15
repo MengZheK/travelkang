@@ -12,7 +12,6 @@ tags: china chongqing travel
 
 <div class="post-image">
 	<img alt="xg" width="750" height="354" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-10-20-Chongqing/1.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-10-20-Chongqing/1%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-10-20-Chongqing/1%403x.jpg 3x" /> 
-	<p class="post-image-caption">印象✲重庆</p>
 </div>
 
 
@@ -25,6 +24,7 @@ tags: china chongqing travel
 <div class="post-image post-image--split"> 
 	<img alt="Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-10-20-Chongqing/4.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-10-20-Chongqing/4%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-10-20-Chongqing/4%403x.jpg 3x" />
 	<img alt="Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-10-20-Chongqing/5.jpg 1x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-10-20-Chongqing/5%402x.jpg 2x, https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2019-10-20-Chongqing/5%403x.jpg 3x" />
+	<p class="post-image-caption">印象✲重庆</p>
 </div>
 
 <div class="post-image">
