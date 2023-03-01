@@ -28,8 +28,9 @@ tags: china Beijing travel
 	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/6.jpg" /> 
 </div>
 
-
-
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/6.jpg" /> 
+</div>
 
 
 
