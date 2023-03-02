@@ -28,10 +28,86 @@ tags: china Beijing travel
 	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/6.jpg" /> 
 </div>
 
+<div class="post-image post-image--split"> 
+	<img alt="Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/7.jpg" />
+	<img alt="Vic" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/8.jpg" />
+</div>
+
+<div class="post-image post-image--split"> 
+	<img alt="Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/9.jpg" />
+	<img alt="Vic" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/10.jpg" />
+</div>
+
 <div class="post-image">
-	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/6.jpg" /> 
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/11.jpg" /> 
+</div>
+
+“清宫建筑之所予人印象最深处，在其一贯之雄伟气魄，在其毫不畏惧之单调。其建筑一律以黄瓦红墙碧绘为标准样式（仅有极少数用绿瓦者），其更重要庄严者，则衬以白玉阶陛。在紫禁城中万数千间，凡目之所及，莫不如是，整齐严肃，气象雄伟，为世上任何一组建筑所不及。” —— 梁思成
+
+<div class="post-image post-image--split"> 
+	<img alt="Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/12.jpg" />
+	<img alt="Vic" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/13.jpg" />
+</div>
+
+<div class="post-image post-image--split"> 
+	<img alt="Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/14.jpg" />
+	<img alt="Vic" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/15.jpg" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="hhttps://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/16.jpg" />
+	<img alt="Blue door, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/17.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/18.jpg" /> 
 </div>
 
 
+<div class="post-image post-image--split"> 
+	<img alt="Chennai" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/19.jpg" />
+	<img alt="Vic" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/20.jpg" />
+</div>
 
+<div class="post-image post-image--split"> 
+	<img alt="Chennai" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/21.jpg" />
+	<img alt="Vic" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/22.jpg" />
+</div>
 
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/23.jpg" /> 
+	<p class="post-image-caption">天安门的夜</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="hhttps://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/24.jpg" />
+	<img alt="Blue door, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/25.jpg" />
+</div>
+
+<div class="post-image post-image--split"> 
+	<img alt="Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/26.jpg" />
+	<img alt="Vic" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/27.jpg" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="hhttps://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/28.jpg" />
+	<img alt="Blue door, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/29.jpg" />
+</div>
+
+<div class="post-image post-image--split"> 
+	<img alt="Chennai" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/30.jpg" />
+	<img alt="Vic" width="365" height="274" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/31.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/32.jpg" /> 
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/33.jpg" /> 
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2022-08-20-Beijing/34.jpg" /> 
+	<p class="post-image-caption">在你的全世界路过</p>
+</div>
