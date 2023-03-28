@@ -7,5 +7,85 @@ location: Xi'an, China
 tags: china Xi'an travel
 ---
 
-西安 Loading...
+春节回家，途径西安，便小住三日，领略一下这千年古都的风韵，赶巧天空飘起雪花，就这样，一夜梦回长安。
 
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/1.jpg" /> 
+	<p class="post-image-caption">西安站</p>
+</div>
+
+<div class="post-image post-image--split"> 
+	<img alt="Chennai" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/2.jpg" />
+	<img alt="Vic" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/3.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/4.jpg" /> 
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/5.jpg" />
+	<img alt="Blue door, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/6.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/7.jpg" /> 
+	<p class="post-image-caption">西安张学良公馆</p>
+</div>
+
+<div class="post-image post-image--split"> 
+	<img alt="Chennai" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/8.jpg" />
+	<img alt="Vic" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/9.jpg" />
+</div>
+
+<div class="post-image post-image--split"> 
+	<img alt="Chennai" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/10.jpg" />
+	<img alt="Vic" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/11.jpg" />
+</div>
+
+逛吃，逛吃，这几日，日行万步，三秦套餐、羊肉泡馍、西安包子，统统收入腹中，各种美食街，让人流连忘返。
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/12.jpg" /> 
+</div>
+
+<div class="post-image post-image--split"> 
+	<img alt="Chennai" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/13.jpg" />
+	<img alt="Vic" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/14.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/15.jpg" /> 
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/16.jpg" /> 
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/17.jpg" />
+	<img alt="Blue door, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/18.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/19.jpg" /> 
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/20.jpg" /> 
+	<p class="post-image-caption">回民街</p>
+</div>
+
+<div class="post-image post-image--split"> 
+	<img alt="Chennai" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/21.jpg" />
+	<img alt="Vic" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/22.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/23.jpg" /> 
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-01-13-Xian/24.jpg" /> 
+	<p class="post-image-caption">西安人的城墙下是西安人的火车</p>
+</div>
