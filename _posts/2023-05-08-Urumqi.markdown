@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Urumqi"
+date:   2023-05-08 09:00:00
+categories: China
+location: Urumqi, China
+tags: china Urumqi travel
+---
+
+乌鲁木齐。
+
+

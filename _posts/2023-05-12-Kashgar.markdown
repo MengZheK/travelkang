@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Kashgar"
+date:   2023-05-12 09:00:00
+categories: China
+location: Kashgar, China
+tags: china Kashgar travel
+---
+
+喀什。
+
+
