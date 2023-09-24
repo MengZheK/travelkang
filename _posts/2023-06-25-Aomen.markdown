@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Aomen"
+date:   2023-06-25 09:00:00
+categories: China
+location: Aomen, China
+tags: china Aomen travel
+---
+
+澳门。
+
+
