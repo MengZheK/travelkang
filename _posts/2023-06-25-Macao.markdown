@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Aomen"
+title:  "Macao"
 date:   2023-06-25 09:00:00
 categories: China
-location: Aomen, China
-tags: china Aomen travel
+location: Macao, China
+tags: china Macao travel
 ---
 
 澳门。
