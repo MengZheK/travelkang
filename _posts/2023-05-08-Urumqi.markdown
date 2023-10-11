@@ -10,7 +10,7 @@ tags: china Urumqi travel
 乌鲁木齐。
 
 <div class="post-image">
-	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-08-Urumqi/1.jpg" /> 
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-08-Urumqi/2.jpg" /> 
 	<p class="post-image-caption">天山</p>
 </div>
 
@@ -22,7 +22,7 @@ tags: china Urumqi travel
 乌鲁木齐。
 
 <div class="post-image">
-	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-08-Urumqi/2.jpg" /> 
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-08-Urumqi/1.jpg" /> 
 </div>
 
 <div class="post-image post-image--split">
@@ -42,8 +42,8 @@ tags: china Urumqi travel
 </div>
 
 <div class="post-image post-image--split">
-	<img alt="Thing, Anegundi" width="500" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-08-Urumqi/11.jpg" />
-	<img alt="Anegundi" width="200" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-08-Urumqi/10.jpg" />
+	<img alt="Thing, Anegundi" width="365" height="300" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-08-Urumqi/11.jpg" />
+	<img alt="Anegundi" width="365" height="300" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-08-Urumqi/12.jpg" />
 </div>
 
 
