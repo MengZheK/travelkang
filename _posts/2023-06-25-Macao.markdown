@@ -9,4 +9,43 @@ tags: china Macao travel
 
 澳门。
 
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-06-25-Macao/1.jpg" /> 
+	<p class="post-image-caption">澳门</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="300" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-06-25-Macao/2.jpg" />
+	<img alt="Anegundi" width="365" height="300" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-06-25-Macao/3.jpg" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="300" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-06-25-Macao/4.jpg" />
+	<img alt="Anegundi" width="365" height="300" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-06-25-Macao/5.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-06-25-Macao/6.jpg" /> 
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="300" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-06-25-Macao/7.jpg" />
+	<img alt="Anegundi" width="365" height="300" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-06-25-Macao/8.jpg" />
+</div>
+
+澳门。
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-06-25-Macao/9.jpg" />
+	<img alt="Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-06-25-Macao/10.jpg" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-06-25-Macao/11.jpg" />
+	<img alt="Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-06-25-Macao/12.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-06-25-Macao/13.jpg" /> 
+</div>
 
