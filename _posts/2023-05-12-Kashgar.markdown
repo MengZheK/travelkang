@@ -19,8 +19,8 @@ tags: china Kashgar travel
 </div>
 
 <div class="post-image post-image--split">
-	<img alt="Thing, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/2.jpg" />
-	<img alt="Blue door, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/2.jpg" />
+	<img alt="Thing, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/3.jpg" />
+	<img alt="Blue door, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/4.jpg" />
 </div>
 
 <div class="post-image">
