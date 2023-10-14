@@ -9,4 +9,122 @@ tags: china Kashgar travel
 
 喀什。
 
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/1.jpg" /> 
+	<p class="post-image-caption">喀什古城</p>
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/2.jpg" /> 
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/2.jpg" />
+	<img alt="Blue door, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/2.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/5.jpg" /> 
+</div>
+
+喀什。
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/6.jpg" />
+	<img alt="Anegundi" width="365" height="487" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/7.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/8.jpg" /> 
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/9.jpg" />
+	<img alt="Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/10.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/11.jpg" /> 
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/12.jpg" /> 
+</div>
+
+喀什。
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/13.jpg" />
+	<img alt="Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/14.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/15.jpg" /> 
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/16.jpg" />
+	<img alt="Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/17.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/18.1.jpg" /> 
+  <p class="post-image-caption">爷爷的的爷爷的爸爸的馕</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/18.jpg" />
+	<img alt="Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/19.jpg" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/20.jpg" />
+	<img alt="Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/21.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/22.jpg" /> 
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/23.jpg" />
+	<img alt="Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/24.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/25.jpg" /> 
+  <p class="post-image-caption">一路向西</p>
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/26.jpg" /> 
+</div>
+
+喀什。
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/27.jpg" /> 
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/28.jpg" />
+	<img alt="Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/29.jpg" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/30.jpg" />
+	<img alt="Anegundi" width="365" height="365" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/31.jpg" />
+</div>
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/32.jpg" /> 
+</div>
+
+
+喀什。
+
+<div class="post-image">
+	<img alt="xg" width="750" height="378" srcset="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/travelkangimg/2023-05-12-Kashgar/33.jpg" /> 
+</div>
+
 
